@@ -4,8 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cumin1&show_icons=true&theme=tokyonight)](https://space.bilibili.com/414136985)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/fu-hao-42-56-2)
-
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
