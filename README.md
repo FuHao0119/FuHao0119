@@ -17,3 +17,48 @@
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
 <!-- [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白. -->
+<div align="center" style="display: inline;">
+      <a href="https://github.com/cumin1" target="_blank">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api?username=cumin1&show_icons=true&locale=en&theme=dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api?username=cumin1&show_icons=true&locale=en&theme=default&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.shellwen.com/api?username=cumin1&show_icons=true&locale=en&theme=default&hide_border=true" />
+        </picture>
+      </a>
+      <br>
+      <a href="https://github.com/cumin1" target="_blank">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api/wakatime?username=cumin1&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api/wakatime?username=cumin1&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.shellwen.com/api/wakatime?username=cumin1&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" />
+        </picture>
+      </a>
+  
+</div>
+
+<!--
+**cumin1/cumin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
