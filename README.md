@@ -16,19 +16,7 @@
         </picture>
       </a>
       <br>
-      <a href="https://github.com/cumin1" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.shellwen.com/api/wakatime?username=cumin1&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.shellwen.com/api/wakatime?username=cumin1&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://github-readme-stats.shellwen.com/api/wakatime?username=cumin1&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" />
-        </picture>
-      </a>
+     [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cumin1)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
