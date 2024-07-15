@@ -17,9 +17,11 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumin1&size_weight=0.5&count_weight=0.5)
+
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumin1&size_weight=0.5&count_weight=0.5)
+
 <!--![头像](image/头像.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)-->
