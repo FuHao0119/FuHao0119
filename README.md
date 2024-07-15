@@ -8,7 +8,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumin1&size_weight=0.5&count_weight=0.5)
+
 
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
@@ -19,6 +19,7 @@
 
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumin1&size_weight=0.5&count_weight=0.5)
 <!--![头像](image/头像.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)-->
