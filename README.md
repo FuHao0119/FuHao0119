@@ -2,23 +2,13 @@
 
 <div id="title" align=center >
       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cumin1&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cumin1&show_icons=true)
 
 
-<div >
-<a href="https://github.com/cumin1/FullStackBaseSession">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumin1&repo=FullStackBaseSession&theme=dracula" />
-</a>
-
-<a href="https://github.com/cumin1/Springboot-Hive-Hadoop-Spark-HDFS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumin1&repo=Springboot-Hive-Hadoop-Spark-HDFS&theme=dracula" />
-</a>
-
-</div>
 
 </br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumin1&size_weight=0.5&count_weight=0.5)
 
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
