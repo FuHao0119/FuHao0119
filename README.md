@@ -12,7 +12,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <p></p>p
+  <p></p>
   <img align="center" src="https://komarev.com/ghpvc/?username=cumin1&style=flat-square&color=blue" alt=""/>
 </div>
 
