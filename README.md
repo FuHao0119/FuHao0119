@@ -60,8 +60,8 @@ Hi, I'm Fuhao, a passionate Software Engineering Student 🚀 from China, curren
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FuHao0119&repo=TURTLESOUP&theme=radical" alt="TURTLESOUP"/>
 </a>
 
-<a href="https://github.com/fuhao/TURTLESOUP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FuHao0119&repo=TURTLESOUP&theme=radical" alt="TURTLESOUP"/>
+<a href="https://github.com/fuhao/sky-take-out ">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FuHao0119&repo=sky-take-out &theme=radical" alt="sky-take-out "/>
 </a>
 
 
