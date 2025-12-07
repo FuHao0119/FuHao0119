@@ -9,7 +9,7 @@ Focusing on **Java Ecosystem** and **Distributed Systems**.
 - 💻 Currently building **[TURTLESOUP](https://github.com/FuHao0119/TURTLESOUP)**.
 - 📚 Deep diving into **Spring Cloud** and Big Data technologies.
 - 🤝 Open for collaboration on Java based open-source projects.
-- 📫 How to reach me: **3144941746@qq.com** or via [Telegram](https://t.me/FuHao0119).
+- 📫 How to reach me: **3144941746@qq.com**.
 
 ### 🛠️ Languages & Tools
 
