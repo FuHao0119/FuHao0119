@@ -63,7 +63,6 @@
 #### 🎮 其他 / Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-3C9A1A?style=flat-square&logo=minecraft&logoColor=white)
 ![Genshin](https://img.shields.io/badge/Genshin-3C9A1A?style=flat-square&logo==genshin&logoColor=white)
 ---
 
