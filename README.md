@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=false&fontSize=90&fontAlignY=40&animation=twinkling&desc=I%20am%20FuHao0119&descSize=30&descAlignY=60" alt="Hello World" title="Hello World"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=false&fontSize=90&fontAlignY=40&animation=twinkling&desc=I%20am%20ClayFu&descSize=30&descAlignY=60" alt="Hello World" title="Hello World"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,7 +9,7 @@
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=ClayFu&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=FuHao0119&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=FuHao0119&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
 </p>
