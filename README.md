@@ -30,6 +30,8 @@
 </p>
 <p align="center">
 
+[![GitHub Roast](https://githubroast.dev/api/card/FuHao0119)](https://githubroast.dev/u/FuHao0119)
+
 ---
 ## 📬 联系方式
 
